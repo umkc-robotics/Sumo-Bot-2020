@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include <Move.h>
 #include <Sight.h>
 #include <Surface.h>
